@@ -1,0 +1,3 @@
+fit.magic.cv.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

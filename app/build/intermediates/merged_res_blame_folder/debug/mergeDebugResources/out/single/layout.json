@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "fit.magic.cv.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "fit.magic.cv.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "fit.magic.cv.app-mergeDebugResources-52:/layout/view_exercise_info.xml",
+        "source": "fit.magic.cv.app-main-55:/layout/view_exercise_info.xml"
+    },
+    {
+        "merged": "fit.magic.cv.app-mergeDebugResources-52:/layout/info_bottom_sheet.xml",
+        "source": "fit.magic.cv.app-main-55:/layout/info_bottom_sheet.xml"
+    },
+    {
+        "merged": "fit.magic.cv.app-mergeDebugResources-52:/layout/fragment_camera.xml",
+        "source": "fit.magic.cv.app-main-55:/layout/fragment_camera.xml"
+    }
+]
